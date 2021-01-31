@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Proyecto Rutas Populares
+_El proyecto puede dar errores al descargarlo, en caso de no solucionar los errores contactar conmigo_
 
-_Proyecto Rutas Populares_
 
 ### Pre-requisitos 📋
 
